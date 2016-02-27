@@ -1,6 +1,6 @@
 name: Green
 favicon: null
-layout_spectrum: 0.74501
+layout_spectrum: 0.24643
 typography_spectrum: 0.32578
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#d0cbad'
     - '#71705c'
     - '#1e2629'
-  brandStrength: 0.875
+  brandStrength: 0.5625
   lightness: 0.23819086723960936
   saturation: 0.6843251502141356
   rhythmicContrast: 0.4797327104024589
