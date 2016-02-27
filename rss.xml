@@ -4,8 +4,15 @@
         <description><![CDATA[Green]]></description>
         <link>https://thegrid.ai/green/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 15:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 15:52:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/green/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Amazing Capitals]]></title>
+            <description><![CDATA[<h1>Amazing Capitals</h1>]]></description>
+            <link>https://thegrid.ai/green/amazing-capitals/index.html</link>
+            <guid isPermaLink="false">4b6af648-9a2c-468c-8ebb-466485c668d8</guid>
+            <pubDate>Sat, 27 Feb 2016 15:52:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hum Drum]]></title>
             <description><![CDATA[<article><h1>Hum Drum</h1><p>Hum Drum World running, running, running, I kow, Iknow</p></article>]]></description>
