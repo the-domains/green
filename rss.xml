@@ -4,14 +4,21 @@
         <description><![CDATA[Green]]></description>
         <link>https://thegrid.ai/green/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 11:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 15:18:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/green/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Hello Sonny"... those were the last words my father ever spoke to me. Two words with so much meaning, such intensity. And love. You're a fine man, Sad, thanks for the path you created and everything you are.</p>]]></description>
+            <link>https://thegrid.ai/green/a9cdcf10-c2df-4b26-a743-cba4e23e177a/index.html</link>
+            <guid isPermaLink="false">a9cdcf10-c2df-4b26-a743-cba4e23e177a</guid>
+            <pubDate>Sat, 27 Feb 2016 15:17:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c44597da-b7bf-45ea-b981-f3d11ca62560.jpg">]]></description>
             <link>https://thegrid.ai/green/0fccc7f0-80cf-49c2-82b9-b2f4bf0f1fef/index.html</link>
             <guid isPermaLink="false">0fccc7f0-80cf-49c2-82b9-b2f4bf0f1fef</guid>
-            <pubDate>Sat, 27 Feb 2016 11:31:45 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 14:42:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
