@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Life Guides for Expats
-datePublished: '2016-02-27T15:57:38.979Z'
-dateModified: '2016-02-27T15:57:08.947Z'
+datePublished: '2016-02-27T16:00:05.231Z'
+dateModified: '2016-02-27T15:57:48.516Z'
 title: Amazing Capitals
 author: []
 sourcePath: _posts/2016-02-27-amazing-capitals.md
