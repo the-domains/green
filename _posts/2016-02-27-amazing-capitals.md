@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Life Guides for Expats
-datePublished: '2016-02-27T17:27:13.007Z'
-dateModified: '2016-02-27T17:27:06.159Z'
+datePublished: '2016-02-28T15:51:40.203Z'
+dateModified: '2016-02-28T15:37:47.501Z'
 title: Amazing Capitals
 author: []
 sourcePath: _posts/2016-02-27-amazing-capitals.md
