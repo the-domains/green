@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.villagegreen.eu/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - whenever
   - humble
 description: 'In brief, the idea for this charitable concept was inspired by Malcolm Kenneth Green, a fine man and my father. Throughout my life, whenever he stood peacefully somewhere, children would walk up to him and take hold of his hand. Yes, he was both humble and gentle.'
-datePublished: '2016-02-28T14:41:31.089Z'
-dateModified: '2016-02-28T14:41:24.037Z'
+datePublished: '2016-02-28T14:49:48.964Z'
+dateModified: '2016-02-28T14:49:24.257Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.villagegreen.eu
   url: 'http://www.villagegreen.eu'
   favicon: null
+url: village-green/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
