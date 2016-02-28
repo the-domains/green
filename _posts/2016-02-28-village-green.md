@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.villagegreen.eu'
-  name: Villagegreen
-  favicon: null
-  domain: www.villagegreen.eu
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.villagegreen.eu/'
+inLanguage: en
+starred: false
 keywords:
   - 'yes'
   - malcolm
@@ -18,17 +17,20 @@ keywords:
   - whenever
   - humble
 description: 'In brief, the idea for this charitable concept was inspired by Malcolm Kenneth Green, a fine man and my father. Throughout my life, whenever he stood peacefully somewhere, children would walk up to him and take hold of his hand. Yes, he was both humble and gentle.'
-inLanguage: en
+datePublished: '2016-02-28T14:41:31.089Z'
+dateModified: '2016-02-28T14:41:24.037Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.villagegreen.eu/'
 title: Village Green
-datePublished: '2016-02-28T14:31:22.126Z'
-dateModified: '2016-02-28T14:28:16.056Z'
 sourcePath: _posts/2016-02-28-village-green.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Villagegreen
+  domain: www.villagegreen.eu
+  url: 'http://www.villagegreen.eu'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
