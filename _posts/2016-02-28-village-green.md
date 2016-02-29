@@ -16,8 +16,8 @@ keywords:
   - whenever
   - humble
 description: 'In brief, the idea for this charitable concept was inspired by Malcolm Kenneth Green, a fine man and my father. Throughout my life, whenever he stood peacefully somewhere, children would walk up to him and take hold of his hand. Yes, he was both humble and gentle.'
-datePublished: '2016-02-28T14:49:48.964Z'
-dateModified: '2016-02-28T14:49:24.257Z'
+datePublished: '2016-02-29T15:32:20.908Z'
+dateModified: '2016-02-29T15:31:58.116Z'
 author: []
 related: []
 app_links: []
