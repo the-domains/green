@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.amazingcapitals.com'
-  name: Amazingcapitals
-  favicon: null
-  domain: www.amazingcapitals.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.amazingcapitals.com/ruhr'
+inLanguage: en
+starred: false
 keywords:
   - ruhr
   - essen
@@ -18,17 +17,20 @@ keywords:
   - nrw
   - orthodontic
 description: 'Amazing Ruhr, is the most comprehensive guide for expats & business travellers in Bochum, Duisburg, Dortmund, Essen and the impressive region of Ruhr, Germany'
-inLanguage: en
+datePublished: '2016-02-29T17:22:07.416Z'
+dateModified: '2016-02-29T16:51:11.702Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.amazingcapitals.com/ruhr'
-title: 'The guide for expats & business travellers in the Ruhr Metropolis, Germany is Amazing Ruhr | Amazing Capitals'
-datePublished: '2016-02-28T19:00:22.935Z'
-dateModified: '2016-02-28T18:59:14.743Z'
+title: 'The guide for expats & business travellers in the Ruhr Metropolis, Germany is Amazing Ruhr'
 sourcePath: _posts/2016-02-28-the-guide-for-expats-and-business-travellers-in-the-ruhr-metro.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Amazingcapitals
+  domain: www.amazingcapitals.com
+  url: 'http://www.amazingcapitals.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
