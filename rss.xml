@@ -4,8 +4,15 @@
         <description><![CDATA[Green]]></description>
         <link>https://thegrid.ai/green/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 17:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 09:07:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/green/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inspiration]]></title>
+            <description><![CDATA[<article><h1>Inspiration</h1><p>"Hello Sonny"... those were the last words my father ever spoke to me. Two words with so much meaning, such intensity. And love. You're a fine man, Dad, thanks for the path you created and everything you are.</p></article>]]></description>
+            <link>https://thegrid.ai/green/a9cdcf10-c2df-4b26-a743-cba4e23e177a/index.html</link>
+            <guid isPermaLink="false">a9cdcf10-c2df-4b26-a743-cba4e23e177a</guid>
+            <pubDate>Sat, 05 Mar 2016 09:06:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c44597da-b7bf-45ea-b981-f3d11ca62560.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.amazingcapitals.com/dusseldorf</link>
             <guid isPermaLink="false">3043fe9f-c41c-4036-87ac-1e2531f46f65</guid>
             <pubDate>Sun, 28 Feb 2016 11:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Düsseldorf]]></title>
-            <description><![CDATA[<article><h1>Düsseldorf</h1><p>A man once told me long ago that he always tried to visit one more country than his current age. I met him when he was 80 years of age and on his way to Israel. Magnificent! I wonder where he is now at 120?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/201af2e524f1f3ca8503ea1548e4e10814017078.jpg"></article>]]></description>
-            <link>https://thegrid.ai/green/d4e24222-79da-410b-948d-1e3f8ca61847/index.html</link>
-            <guid isPermaLink="false">d4e24222-79da-410b-948d-1e3f8ca61847</guid>
-            <pubDate>Sat, 27 Feb 2016 17:12:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
