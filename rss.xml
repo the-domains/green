@@ -4,7 +4,7 @@
         <description><![CDATA[Green]]></description>
         <link>https://thegrid.ai/green/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 12:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 12:55:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/green/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About The Brit]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/green/a9cdcf10-c2df-4b26-a743-cba4e23e177a/index.html</link>
             <guid isPermaLink="false">a9cdcf10-c2df-4b26-a743-cba4e23e177a</guid>
             <pubDate>Sat, 05 Mar 2016 09:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazing Capitals]]></title>
-            <description><![CDATA[<article><h1>Amazing Capitals</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9421b07ed344a74a38b243e57a8147b0f20c4aae.jpg"></article>]]></description>
-            <link>https://thegrid.ai/green/amazing-capitals/index.html</link>
-            <guid isPermaLink="false">4b6af648-9a2c-468c-8ebb-466485c668d8</guid>
-            <pubDate>Sun, 06 Mar 2016 09:44:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
